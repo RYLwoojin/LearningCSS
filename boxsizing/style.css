@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    box-sizing: border-box;
+    width: 480px;
+    height: 480px;
+    background-color: cornflowerblue;
+    padding: 40px 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
